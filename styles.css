@@ -1,0 +1,21 @@
+.gameArea{
+    text-align: center;
+    font-size: 2em;
+    
+}
+
+.box{
+    display: inline-block;
+    width: 30px;
+    border: 1px solid #ccc;
+}
+
+button{
+    background-color: red;
+    padding: 10px;
+    color: white;
+    font-size: 2em;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    cursor: grab;
+}
